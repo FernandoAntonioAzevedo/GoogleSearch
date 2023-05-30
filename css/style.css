@@ -59,3 +59,17 @@ header {
 #mic-icon {
     right: 88px;
 }
+
+/* Navbar */
+
+#links-list {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 146px;
+    margin-bottom: 0;
+}
+
+#links-list li {
+    display: inline-block;
+    padding: 0 11px;
+}
